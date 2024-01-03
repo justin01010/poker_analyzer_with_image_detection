@@ -8,15 +8,16 @@ Video Demonstration Link: https://drive.google.com/file/d/1ZOkMBLsEVfMF-hGE55xJm
 
 ## Features
 - **Image Detection**
+
 uses opencv and roboflow library to detect poker card with webcam
 
 - **Webcam Integration**
+
 Capture images across different devices (Raspberry Pi) and transmit data via socket
 
 - **Winning Percentage calculation**
+
 Dynamically calculate and display the winning percentage for each player during each round of the game
 
 ## Schematic
-![Screenshot 2024-01-03 at 4.13.37 PM](https://hackmd.io/_uploads/BJvvPqMdT.png)
-
-
+![schematic](https://github.com/justin01010/poker_analyzer_with_image_detection)
