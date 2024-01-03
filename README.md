@@ -20,4 +20,5 @@ Capture images across different devices (Raspberry Pi) and transmit data via soc
 Dynamically calculate and display the winning percentage for each player during each round of the game
 
 ## Schematic
-![schematic](https://github.com/justin01010/poker_analyzer_with_image_detection/schematic.png)
+<img width="870" alt="schematic" src="https://github.com/justin01010/poker_analyzer_with_image_detection/assets/90828505/982df182-8111-4b16-8fee-f00976dd56a3">
+
