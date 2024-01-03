@@ -4,7 +4,7 @@
 
 This project is to utilize image detection to calculate the winning rate of players during a Texas Hold'em poker game.
 
-Video Demonstration Link: https://drive.google.com/file/d/1ZOkMBLsEVfMF-hGE55xJmXxdI2wB4o3g/view?usp=share_link
+Video Demonstration Link: https://www.youtube.com/watch?v=ET2n0PX1TXU
 
 ## Features
 - **Image Detection**: uses opencv and roboflow library to detect poker card with webcam
